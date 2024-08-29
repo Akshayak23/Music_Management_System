@@ -1,2 +1,2 @@
 # Music-Management-System
-A DBMS poject.
+A DBMS mini poject.
